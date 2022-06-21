@@ -1,3 +1,12 @@
+// pencipta hayzer 
+   Pembantu verdikuontol
+   Fix to run verdikawaii
+ Yang baru
+ 1.work run okteto
+ 2.work run rdp heroku termux
+ 3.antiboros kuota
+ 4.anti delay
+
 //=============『 Utama 』================== //
 global.owner = ['6285706735450'] 
 global.mods = [] 
@@ -23,10 +32,10 @@ global.fotonya1 = 'https://telegra.ph/file/316446ce3a86da813715c.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/316446ce3a86da813715c.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
+global.wm = 'verdikawaii-𝙼𝙳'
 global.watermark = wm
-global.wm2 = '                     「 𝚂𝙷𝙸𝚁𝙾-𝙼𝙳 あ⁩ 」'
-global.wm3 = '⫹⫺ 𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
+global.wm2 = '                     「 memek-𝙼𝙳 あ⁩ 」'
+global.wm3 = '⫹⫺ memek-𝙼𝙳'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
