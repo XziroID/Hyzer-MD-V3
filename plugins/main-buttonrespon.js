@@ -47,7 +47,7 @@ module.exports = {
                             false
                 if (!isId) continue
                 console.log({ name, command: plugin.command, text: id })
-                isIdMessage = true
+                isIdMessage = false
             }
 
         }
