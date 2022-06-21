@@ -1,5 +1,5 @@
 /**
-* create by hyzer official
+* create by hyzer official dan verdikawaii
 * g usah di hapus anjg, gw cape sumpah
 * sc free, bayar pake subs aja udh good
 * jika ada bug/mau request fitur
@@ -23,7 +23,7 @@ let moment = require('moment-timezone')
 const defaultMenu = {
   before:`
 ┌─「 *${global.namebot}* 」
-├ Hai, %name!
+├ Hai, %name! 
 ├ Tersisa *%limit Limit*
 ├ Role *%role*
 ├ Level *%level (%exp / %maxexp)*
@@ -33,7 +33,11 @@ const defaultMenu = {
 ├ Tanggal: *%week %weton, %date*
 ├ Tanggal Islam: *%dateIslamic*
 ├ Waktu: *%time*
+│ °_° kamu jomblo
 │
+│BOT By. @6285706735450
+│
+│Hai bang  
 ├ Uptime: *%uptime (%muptime)*
 ├ Database: %rtotalreg dari %totalreg
 ├ Memory Used : *${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
@@ -89,46 +93,46 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
     'vote': 'MENU VOTING',
   }
   if (teks == 'anime') tags = {
-  'anime': 'MENU ANIME',
+  'anime': 'MENU ANIMEK',
   }
   if (teks == 'sticker') tags = {
-  'sticker': 'MENU CONVERT',
+  'sticker': 'MENU sticker🙄',
   }
   if (teks == 'downloader') tags = {
-  'downloader': 'MENU DOWNLOADER',
+  'downloader': 'MENU DOWNLOADER😋',
   }
   if (teks == 'xp') tags = {
-  'xp': 'MENU EXP',
+  'xp': 'MENU EXP😎',
   }
   if (teks == 'fun') tags = {
-  'fun': 'MENU FUN',
+  'fun': 'MENU FUN☺',
   }
   if (teks == 'game') tags = {
-  'game': 'MENU GAME',
+  'game': 'MENU GAME👾',
   }
   if (teks == 'github') tags = {
-  'github': 'MENU GITHUB',
+  'github': 'MENU GITHUB😎',
   }
   if (teks == 'group') tags = {
-  'group': 'MENU GROUP',
+  'group': 'MENU GROUP👽',
   }
   if (teks == 'image') tags = {
-  'image': 'MENU IMAGE',
+  'image': 'MENU IMAGE😾',
   }
   if (teks == 'info') tags = {
-  'info': 'MENU INFO',
+  'info': 'MENU INFO😳',
   }
   if (teks == 'internet') tags = {
-  'internet': 'INTERNET',
+  'internet': 'INTERNET😳',
   }
   if (teks == 'islam') tags = {
-  'islam' : 'MENU ISLAMI',
+  'islam' : 'MENU ISLAMI👳',
   }
   if (teks == 'kerang') tags = {
-  'kerang': 'MENU KERANG',
+  'kerang': 'MENU KERANG🕵',
   }
   if (teks == 'maker') tags = {
-  'maker': 'MENU MAKER',
+  'maker': 'MENU MAKER😀',
   }
   if (teks == 'owner') tags = {
     'owner': 'Owner',
@@ -166,13 +170,13 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
   'asupan': 'ASUPAN MENU', 
   }
   if (teks == 'random') tags = {
-  'random': 'RANDOM MENU', 
+  'random': 'RANDOM MENU😁', 
   }
-  if (teks == 'textpro') tags = {
+  if (teks == 'textpro😁') tags = {
   'textpro': 'TEXT PRO MENU', 
   }
   if (teks == 'photooxy') tags = {
-  'photooxy': 'PHOTO OXY MENU', 
+  'photooxy': 'PHOTO MENU😁', 
   }
 
 //━━━━━━━━[ DATABASE USER ]━━━━━━━━//
