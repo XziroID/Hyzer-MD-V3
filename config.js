@@ -4,7 +4,7 @@ global.mods = []
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner =VERDIKAWAII'
+global.nameowner = 'VERDIKAWAII'
 global.numberowner = '6285706735450'
 global.instagram = 'https://instagram.com/VERDI_ZZ'
 global.github = 'https://github.com/VERDIBOTZ1'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = 'XziroID'
+global.author = '@XziroID by @6285706735450'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
