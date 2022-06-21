@@ -1,12 +1,3 @@
-// pencipta hayzer 
-   Pembantu verdikuontol
-   Fix to run verdikawaii
- Yang baru
- 1.work run okteto
- 2.work run rdp heroku termux
- 3.antiboros kuota
- 4.anti delay
-
 //=============『 Utama 』================== //
 global.owner = ['6285706735450'] 
 global.mods = [] 
