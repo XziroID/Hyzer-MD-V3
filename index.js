@@ -25,7 +25,7 @@ var isRunning = false
  */
 function start(file) {
   if (isRunning) return
-  isRunning = true
+  isRunning = false
   let args = [path.join(__dirname, file), ...process.argv.slice(2)]
   CFonts.say([process.argv[0], ...args].join(' '), {
     font: 'console',
